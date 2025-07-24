@@ -21,6 +21,7 @@ We use publicly available datasets such as:
 - [RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)](https://zenodo.org/record/1188976)
 - [EmoDB (Berlin Emotional Speech Database)](https://www.phonetik.uni-muenchen.de/Bas/BasEmo.html)
 
+clone:https://github.com/HasinTaj/Emotion-detetction.git
 ---
 
 
